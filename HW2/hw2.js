@@ -19,7 +19,8 @@ if (evenNum) {
         result += i;
     }
   } 
-   console.log (result) ;  
+   console.log (result) ; 
+document.writeln(result) ;
   
 
 
